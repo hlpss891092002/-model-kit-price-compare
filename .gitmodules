@@ -1,0 +1,3 @@
+[submodule "frontend/react-app"]
+	path = frontend/react-app
+	url = https://github.com/hlpss891092002/-model-kit-price-compare.git
